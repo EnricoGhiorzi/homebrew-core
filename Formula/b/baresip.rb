@@ -19,7 +19,7 @@ class Baresip < Formula
   depends_on "libre"
 
   on_macos do
-    depends_on "openssl@3"
+    depends_on "openssl@4"
   end
 
   def install
