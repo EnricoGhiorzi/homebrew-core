@@ -42,7 +42,7 @@ class ClickhouseOdbc < Formula
   depends_on "cmake" => :build
   depends_on "folly" => :build
   depends_on "icu4c@78"
-  depends_on "openssl@3"
+  depends_on "openssl@4"
   depends_on "poco"
   depends_on "unixodbc"
 
