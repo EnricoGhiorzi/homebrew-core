@@ -1,8 +1,8 @@
 class Ecl < Formula
   desc "Embeddable Common Lisp"
   homepage "https://ecl.common-lisp.dev"
-  url "https://ecl.common-lisp.dev/static/files/release/ecl-24.5.10.tgz"
-  sha256 "e4ea65bb1861e0e495386bfa8bc673bd014e96d3cf9d91e9038f91435cbe622b"
+  url "https://ecl.common-lisp.dev/static/files/release/ecl-26.5.5.tgz"
+  sha256 "a01a5bcda8c5b73e59dda3494fd13e5fec5db6aa1dad782c3cc3bb57f1633435"
   license "LGPL-2.1-or-later"
   head "https://gitlab.com/embeddable-common-lisp/ecl.git", branch: "develop"
 
