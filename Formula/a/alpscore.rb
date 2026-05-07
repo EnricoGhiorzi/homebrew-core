@@ -1,10 +1,9 @@
 class Alpscore < Formula
   desc "Applications and libraries for physics simulations"
   homepage "https://alpscore.org"
-  url "https://github.com/ALPSCore/ALPSCore/archive/refs/tags/v2.3.2.tar.gz"
-  sha256 "bd9b5af0a33acc825ffedfaa0bf794a420ab2b9b50f6a4e634ecbde43ae9cc24"
+  url "https://github.com/ALPSCore/ALPSCore/archive/refs/tags/v2.3.3.tar.gz"
+  sha256 "bfc8c42fc372a894a3e120afe2c7432f8e79b55730dba43eee42e222615fefc1"
   license "GPL-2.0-only"
-  revision 2
 
   bottle do
     sha256 cellar: :any,                 arm64_tahoe:   "40dc2149a084c00f49ffb90537d54bb25928f9ec40de4a742ede77e7c59e1874"
